@@ -2,8 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Web3 Wallet Security
-tags: contact-tag
-tags: example-tag
+tags: 
+   - contact-tag
+   - example-tag
 level: 2
 type: documentation
 pitch: A very brief, one-line description of your project
