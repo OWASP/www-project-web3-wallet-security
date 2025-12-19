@@ -1,6 +1,5 @@
 ---
 title: contact
-displaytext: Contact
 layout: null
 tab: true
 order: 1
