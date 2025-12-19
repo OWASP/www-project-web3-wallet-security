@@ -3,7 +3,7 @@ title: contact
 displaytext: Contact
 layout:  col-sidebar
 tab: true
-order: 2
+order: 1
 tags: contact-tag
 
 ---
