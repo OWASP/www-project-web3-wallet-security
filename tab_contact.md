@@ -3,7 +3,7 @@ title: contact
 displaytext: Contact
 layout: null
 tab: true
-order: 2
+order: 1
 tags: contact-tag
 
 ---
