@@ -1,9 +1,9 @@
 ---
 title: contact
 displaytext: Contact
-layout:  col-sidebar
+layout: null
 tab: true
-order: 1
+order: 2
 tags: contact-tag
 
 ---
