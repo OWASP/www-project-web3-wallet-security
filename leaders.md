@@ -13,5 +13,5 @@
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mustapha-sani-a54511248/)
    [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/musty_01_)
 
-* **JOSHUA ADESANYA**
+* **Joshua Adesanya**
 
