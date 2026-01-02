@@ -15,3 +15,5 @@
 
 * **Joshua Adesanya**
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/joshuaadesanya/)
+   [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/josh_my_man)
+
