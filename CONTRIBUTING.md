@@ -23,7 +23,7 @@ To get started with contributing to any OWASP project, please follow these steps
 ## Communication
 
 We use the OWASP Slack workspace for project discussions and support.
-After joining the OWASP Slack, please join the [web3-wallet-security] channel, where maintainers and contributors coordinate work, discuss issues, and provide guidance.
+After joining the OWASP Slack, please join the [web3-wallet-security](https://app.slack.com/client/T04T40NHX/C0A4289FNKD) channel, where maintainers and contributors coordinate work, discuss issues, and provide guidance.
 
 
 ## Pull Request Guidelines
