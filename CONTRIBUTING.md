@@ -20,6 +20,12 @@ To get started with contributing to any OWASP project, please follow these steps
 
 7. Submit a pull request with your changes.
 
+## Communication
+
+We use the OWASP Slack workspace for project discussions and support.
+After joining the OWASP Slack, please join the [web3-wallet-security] channel, where maintainers and contributors coordinate work, discuss issues, and provide guidance.
+
+
 ## Pull Request Guidelines
 
 Before submitting a pull request, please make sure:
