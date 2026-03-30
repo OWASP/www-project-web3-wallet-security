@@ -9,9 +9,7 @@ If you believe you have identified a security issue related to this repository i
 
 ## How to Report
 
-Please report security-related issues by contacting the OWASP Security Team at:
-
-https://owasp.org/www-project-web3-wallet-security/contact/
+Please report security-related issues by contacting the OWASP Security Team or using the security tab in GitHub overview 
 
 
 Please include:
