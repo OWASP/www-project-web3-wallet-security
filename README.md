@@ -5,3 +5,7 @@
 <br clear="left"/>
 
 ---
+> ## Join the OWASP Smart Contract Security Slack
+> [![Slack](https://img.shields.io/badge/slack-join%20chat-611f69?logo=slack&logoColor=white)](https://owasp.slack.com/archives/C0A4289FNKD)
+> 
+Community discussions and support focused on the project.
