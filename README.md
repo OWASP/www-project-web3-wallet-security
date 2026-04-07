@@ -30,3 +30,46 @@ The Web3 Wallet Security (WWS) project is structured around three core resources
   Provides practical methodologies for testing, auditing, and validating wallet implementations against known attack scenarios.
 
 These resources are designed to work together to establish a consistent and effective approach to wallet security.
+
+---
+
+##  Why Wallet Security Matters
+
+Web3 wallets are the primary interface between users and decentralized systems.
+
+They are responsible for:
+
+- Managing private keys and sensitive data  
+- Signing transactions and messages  
+- Interacting with external applications and smart contracts  
+
+Despite this, wallets remain one of the most targeted and least standardized components in the ecosystem.
+
+Attacks increasingly focus on:
+
+- Manipulating user signing behavior  
+- Exploiting trust in external data (RPC, dApps)  
+- Abusing wallet permissions and session states  
+
+This project exists to address these gaps and define a clear security baseline for wallet systems.
+
+---
+
+## 👥 Who This Is For
+
+This project is designed for:
+
+- **Wallet Developers**  
+  Building secure wallet applications and improving existing implementations.
+
+- **Security Auditors**  
+  Assessing wallet systems and identifying potential vulnerabilities.
+
+- **Organizations**  
+  Establishing security baselines and evaluating wallet solutions.
+
+- **Researchers**  
+  Studying wallet attack surfaces and emerging threats.
+
+- **Web3 Users (Advanced)**  
+  Understanding risks associated with wallet usage and transaction signing.
