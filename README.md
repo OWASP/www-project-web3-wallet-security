@@ -14,3 +14,19 @@ The WWS ecosystem consists of focused resources that work together to improve wa
 > [![Slack](https://img.shields.io/badge/slack-join%20chat-611f69?logo=slack&logoColor=white)](https://owasp.slack.com/archives/C0A4289FNKD)
 > 
 Community discussions and support focused on the project.
+
+
+## 🧩 Project Components
+
+The Web3 Wallet Security (WWS) project is structured around three core resources, each addressing a critical aspect of wallet security:
+
+- **Web3 Wallet Top 10**  
+  Identifies the most critical risks affecting wallet security, based on real-world attack patterns and emerging threats.
+
+- **Web3 Wallet Security Verification Standard (WWSVS)**  
+  Defines security requirements and controls for designing, building, and evaluating secure wallet systems.
+
+- **Web3 Wallet Security Testing Guide (WWSTG)**  
+  Provides practical methodologies for testing, auditing, and validating wallet implementations against known attack scenarios.
+
+These resources are designed to work together to establish a consistent and effective approach to wallet security.
