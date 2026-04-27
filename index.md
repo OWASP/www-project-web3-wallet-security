@@ -11,4 +11,8 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-The purpose of this project is to improve the security of Web3 wallets by creating community-driven documentation, standards, and testing guidance. The project will provide resources for developers, auditors, and the wider OWASP community to build, test, and use wallets securely.
+🔷 About the Project
+
+The OWASP Web3 Wallet Security project focuses on improving the security of Web3 wallets by defining standards, identifying risks, and providing practical testing guidance.
+Wallets act as the primary interface between users and decentralized systems. They manage private keys, sign transactions, and interact with external applications. As a result, they are one of the most critical and targeted components in the Web3 ecosystem.
+This project aims to establish a clear and structured approach to securing wallet systems.
