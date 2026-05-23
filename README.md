@@ -5,6 +5,7 @@
 <br clear="left"/>
 
 
+
 This is the official GitHub repository of the OWASP Web3 Wallet Security (WWS) project.
 This initiative focuses on defining security standards, testing methodologies, and risk awareness for Web3 wallet systems. The project is designed to address the unique security challenges at the wallet layer, where users interact directly with decentralized applications and manage digital assets.
 The WWS ecosystem consists of focused resources that work together to improve wallet security practices, enable consistent verification, and support secure development and auditing of wallet implementations. 
