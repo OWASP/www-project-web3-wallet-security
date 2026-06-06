@@ -5,7 +5,6 @@
   [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/Saconychukwu)
 
 * **Bryan Ndum**
-  [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:Bryan.Ndum@owasp.org)
 
 * **Mustapha Sani**
    [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mustaphaabdulaziz001@gmail.com)
