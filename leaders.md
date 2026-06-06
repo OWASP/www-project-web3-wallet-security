@@ -4,8 +4,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/chidubem-chukwu-20bb202a9/)
   [![X](https://img.shields.io/badge/X-black?logo=x)](https://x.com/Saconychukwu)
 
-* **Bryan Ndum**
-
 * **Mustapha Sani**
    [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mustaphaabdulaziz001@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mustapha-sani-a54511248/)
