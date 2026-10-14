@@ -11,6 +11,7 @@ pitch: A very brief, one-line description of your project
 
 ---
 
+
 # About the Project
 
 The OWASP Web3 Wallet Security project focuses on improving the security of Web3 wallets by defining standards, identifying risks, and providing practical testing guidance.
