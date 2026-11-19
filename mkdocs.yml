@@ -1,0 +1,24 @@
+site_name: OWASP Web3 Wallet Security
+site_description: Security standards, research, and testing guidance for Web3 wallets
+site_url: https://wallet.owasp.org/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Web3 Wallet Top 10: top10/index.md
+  - WWSVS: wwsvs/index.md
+  - WWSTG: wwstg/index.md
+  - Research: research.md
+  - Contributing: contributing.md
+  - About: about.md
